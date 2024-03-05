@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Account Registration Form for Developers </h1>
+    <h1 style="color:blue;">Account Registration Form: </h1>
     <h3>Please fill in this form to create an account.</h3>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Built By DJS </h1>
+   <h1> Copyrighted to DBSOFT TEAM INC </h1>
 
   
 </form>
