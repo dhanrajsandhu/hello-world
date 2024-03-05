@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Account Registration Form: </h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>Account Registration Form for Developers </h1>
+    <h3>Please fill in this form to create an account.</h3>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you </h1>
+   <h1> Built By DJS </h1>
 
   
 </form>
