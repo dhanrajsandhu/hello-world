@@ -2,7 +2,7 @@
   <div class="container">
     <h1 style="color:blue;">Account Registration Form: </h1>
     <h3>Please fill in this form to create an account.</h3>
-    <hr>
+    <hr>    
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Copyrighted to DBSOFT TEAM INC </h1>
+   <h1> Copyrighted to DBSOFT TEAM INC Canada </h1>
 
   
 </form>
